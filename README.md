@@ -32,7 +32,7 @@ Ce projet a été réalisé dans le cadre du Master Intelligence Artificielle et
 - **Sérialisation JSON** : Gestion avancée des données avec Jackson
 - **Gestion temporelle** : Support des types Java Time (JSR-310)
 
-## 🏗️ Architecture
+## Architecture
 
 ### Architecture Multi-Agents
 SMAGRS utilise trois types d'agents spécialisés :
